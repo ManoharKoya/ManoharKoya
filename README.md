@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ManoharKoya
 - 👀 I’m interested in Data-Structures, Algorithms, Machine learning, Development in .NET Core 
-- 🌱 I’m currently learning .NET 5
+- 🌱 I’m currently working as .NET Core developer
 - 💞️ I’m looking to collaborate on any interesting project in any stream like ML, AI, .NET, Algorithm development 
 - 📫 To reach me you can ping me @ manohar.koya@varsun.com
 
